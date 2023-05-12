@@ -5,4 +5,4 @@
 
 ## Example
 
-Run `make run-example`.
+![01. FastAPI Example](./images/01.%20FastAPI%20Example.png)
